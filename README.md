@@ -22,7 +22,7 @@
 
 <!-- About Me -->
 <ul>
-    <li>🌱 I’m currently learning <strong>Advanced TypeScript, PostgreSQL, Next.js</strong></li>
+    <li>🌱 I’m currently learning </li>
     <li>💬 Ask me about <strong>Frontend, GSAP, React, Express, MERN</strong></li>
     <li>📫 How to reach me <strong>ragsingh773@gmail.com</strong></li>
 </ul>
@@ -48,15 +48,9 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=golang" alt="golang" width="40" height="40"/>
-    </a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
-    </a>
+    
+
+
     <!-- Frontend -->
      <h3 align="left">Frontend</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
