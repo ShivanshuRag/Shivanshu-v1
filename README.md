@@ -48,9 +48,6 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    
-
-
     <!-- Frontend -->
      <h3 align="left">Frontend</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -120,20 +117,6 @@
     </a>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
         <img src="./assests/prisma.png" alt="Prisma" width="40" height="40"/>
-    </a>
-    <!-- DevOps -->
-     <h3 align="left">DevOps</h3>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="vercel" width="40" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/>
     </a>
     <!-- Tools -->
      <h3 align="left">Tools</h3>
