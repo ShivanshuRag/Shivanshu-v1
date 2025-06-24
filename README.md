@@ -142,7 +142,7 @@
 <br>
 <!-- GitHub Stats -->
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivanshuRag&show_icons=true&locale=en&layout=compact&hide_border=true&theme=holi" alt="ashutosh" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivanshuRag&show_icons=true&locale=en&layout=compact&hide_border=true&theme=holi" alt="shivanshu" />
 </p>
 
 <!-- GitHub Stats more -->
@@ -150,9 +150,7 @@
 
 <!-- Activity Graph -->
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshuRag&hide_border=true&theme=react-dark" alt="ashutosh" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshuRag&hide_border=true&theme=react-dark" alt="shivanshu" />
 </p>
 <!-- language Graph -->
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=c34e365f-01c3-4480-a437-d477dc0aa67b&layout=compact&theme=holi&range=all_time"/>
-</p>
+
